@@ -1,2 +1,2 @@
 # django-freelance
-A naive freelance platform on django
+A backend for the naive freelance platform
